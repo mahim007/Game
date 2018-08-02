@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533246265 source:d:\coding\game\hungry snake\snake.cpp
+	<bits/stdc++.h>
+	<vector>
+	<map>
+	<windows.h>
+	<conio.h>
+
